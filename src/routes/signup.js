@@ -2,7 +2,7 @@
 // ここからがSignup出来ないので、コピペする
 
 import React, { useRef } from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 // import useAuth from '../hooks/useAuth';
 // useAuth の代わりにuseAuthContextを使う
 import {useAuthContext} from '../context/AuthContext'
